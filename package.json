@@ -29,7 +29,7 @@
     "@types/cron": "^1.6.0",
     "@types/dateformat": "^3.0.0",
     "@types/find-up": "^2.1.1",
-    "@types/fs-extra": "^5.0.5",
+    "@types/fs-extra": "^8.0.1",
     "@types/json-stringify-safe": "^5.0.0",
     "@types/jssha": "^2.0.0",
     "@types/lodash": "^4.14.121",
